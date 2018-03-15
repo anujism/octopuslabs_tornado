@@ -1,0 +1,10 @@
+tornado
+beautifulsoup4
+pycrypto
+bcrypt
+futures
+mysqlclient
+markdown
+tornado
+torndb
+nltk

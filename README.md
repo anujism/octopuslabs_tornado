@@ -15,7 +15,7 @@ cd octopuslabs_tornado
 pip install -r requirements.txt
 ```
 
-# Create Mysql Database and user
+## Create Mysql Database and user
 
 ```
 CREATE USER 'octopus'@'localhost' IDENTIFIED BY 'octopus';

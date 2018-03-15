@@ -29,3 +29,5 @@ GRANT ALL PRIVILEGES ON octopus.* TO 'octopus'@'localhost' IDENTIFIED BY 'octopu
 ```
 python app.py
 ````
+
+The server will be started at localhost:8888.
